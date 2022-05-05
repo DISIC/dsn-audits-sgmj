@@ -1,4 +1,4 @@
-module github.com/DISIC/dsn-audits-__ADMIN_SHORT__
+module github.com/DISIC/dsn-audits-sgmj
 
 go 1.16
 
