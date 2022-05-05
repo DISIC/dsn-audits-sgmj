@@ -1,0 +1,17 @@
+_merge = "deep"
+
+languageCode = 'fr-fr'
+title = 'Secrétariat général du ministère de la Justice'
+
+[module]
+[[module.imports]]
+path = 'github.com/disic/frago'
+
+[outputs]
+ home    = ["HTML","JSON"]
+ page    = ["HTML","JSON","declaration","declarationpage","accessibility","accessibilitypage","recommendation", "recommendationpage","performance","performancepage"]
+
+
+[params]
+  organisation = "Secrétariat général du ministère de la Justice"
+  robots = "noindex, nofollow"
