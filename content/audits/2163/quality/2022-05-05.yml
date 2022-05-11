@@ -1,0 +1,82 @@
+- pages:
+    - name: "Global au site"
+      blocks:
+        - name: Pages manquantes
+          errors:
+            - name: |
+                Certaines pages obligatoires ne sont pas accessibles depuis la page de la démarche
+              description: |
+                Ces pages sont maquantes :
+                - Contact
+                - Mentions légales
+                - Accessibilité
+                - Aide / Support
+
+                **Recommandation** :  
+                Ajouter un pied de page avec un accès à ces pages.
+              delivery: Notes annexes
+              status: important
+
+        - name: UI / UX
+          errors:
+            - name: |
+                Ne pas désactiver le clic droit de la souris
+              description: |
+                Le clic droit de la souris semble volontairement désactivé. Cela doit être une vieille
+                (mauvaise) pratique pour empêcher l'enregeistrement d'images…
+
+                **Recommandation** :  
+                Ne pas désactiver le clic droit de la souris
+              delivery: Notes annexes
+              status: moindre
+            - name: |
+                Texte trop petit
+              description: |
+                La taille des caractères est trop petite.
+
+                **Recommandation** :  
+                Augmenter la taile des caractères
+              delivery: Notes annexes
+              status: moindre
+            - name: |
+                Adaptation de l'interface aux différents formats d'écran
+              description: |
+                Le site utilise des tableaux (`<table>`) à taille fixe pour mettre en page le site.
+
+                **Recommandation** :  
+                Remplacer les tableaux par une mise en page plus moderne grace à des styles CSS. Voir [flexbox](https://developer.mozilla.org/fr/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox).
+              delivery: Notes annexes
+              status: moindre
+            - name: |
+                Fonctionnalités accessibles uniquement lorsque les feuilles de style sont désactivées
+              description: |
+                Certaines actions sont rendues possible en désactivant les feuilles de style. Par exemple : la recherche d'une ville.
+
+                **Recommandation** :  
+                Au lieu de simplement les cacher, supprimer complètement les fonctionnalités non désirées de la démarche.
+              delivery: Notes annexes
+              status: moindre
+            - name: |
+                Mieux gérer le rafraichissement de la page
+              description: |
+                Pour l'instant le rafraichissement de la page fait apparaitre une popup d'alerte "Attention, vous avez utilisé le bouton [PRECEDENT] ou [SUIVANT]"
+
+                **Recommandation** :  
+                Au lieu de simplement les cacher, supprimer complètement les fonctionnalités non désirées de la démarche.
+              delivery: Notes annexes
+              status: moindre
+
+        - name: Contenu éditorial
+          errors:
+            - name: |
+                Expliciter les acronymes
+              description: |
+                Expliciter les acronymes tels que "DPJJ", "R.Q.T.H."
+              delivery: Notes annexes
+              status: moindre
+            - name: |
+                Fautes d'orthographe ou de grammaire
+              description: |
+                - "éducateur" au lieu de "educateur"
+              delivery: Notes annexes
+              status: moindre

@@ -1,107 +1,107 @@
-"Thématiques","Critères","Accueil","Contact","Mentions légales","Accessibilité","Aide / Support","Authentification","Page formulaire"
-"1","1",,,,,,,
-"1","2",,,,,,,
-"1","3",,,,,,,
-"1","4",,,,,,,
-"1","5",,,,,,,
-"1","6",,,,,,,
-"1","7",,,,,,,
-"1","8",,,,,,,
-"1","9",,,,,,,
-"2","1",,,,,,,
-"2","2",,,,,,,
-"3","1",,,,,,,
-"3","2",,,,,,,
-"3","3",,,,,,,
-"4","1",,,,,,,
-"4","2",,,,,,,
-"4","3",,,,,,,
-"4","4",,,,,,,
-"4","5",,,,,,,
-"4","6",,,,,,,
-"4","7",,,,,,,
-"4","8",,,,,,,
-"4","9",,,,,,,
-"4","10",,,,,,,
-"4","11",,,,,,,
-"4","12",,,,,,,
-"4","13",,,,,,,
-"5","1",,,,,,,
-"5","2",,,,,,,
-"5","3",,,,,,,
-"5","4",,,,,,,
-"5","5",,,,,,,
-"5","6",,,,,,,
-"5","7",,,,,,,
-"5","8",,,,,,,
-"6","1",,,,,,,
-"6","2",,,,,,,
-"7","1",,,,,,,
-"7","2",,,,,,,
-"7","3",,,,,,,
-"7","4",,,,,,,
-"7","5",,,,,,,
-"8","1",,,,,,,
-"8","2",,,,,,,
-"8","3",,,,,,,
-"8","4",,,,,,,
-"8","5",,,,,,,
-"8","6",,,,,,,
-"8","7",,,,,,,
-"8","8",,,,,,,
-"8","9",,,,,,,
-"8","10",,,,,,,
-"9","1",,,,,,,
-"9","2",,,,,,,
-"9","3",,,,,,,
-"9","4",,,,,,,
-"10","1",,,,,,,
-"10","2",,,,,,,
-"10","3",,,,,,,
-"10","4",,,,,,,
-"10","5",,,,,,,
-"10","6",,,,,,,
-"10","7",,,,,,,
-"10","8",,,,,,,
-"10","9",,,,,,,
-"10","10",,,,,,,
-"10","11",,,,,,,
-"10","12",,,,,,,
-"10","13",,,,,,,
-"10","14",,,,,,,
-"11","1",,,,,,,
-"11","2",,,,,,,
-"11","3",,,,,,,
-"11","4",,,,,,,
-"11","5",,,,,,,
-"11","6",,,,,,,
-"11","7",,,,,,,
-"11","8",,,,,,,
-"11","9",,,,,,,
-"11","10",,,,,,,
-"11","11",,,,,,,
-"11","12",,,,,,,
-"11","13",,,,,,,
-"12","1",,,,,,,
-"12","2",,,,,,,
-"12","3",,,,,,,
-"12","4",,,,,,,
-"12","5",,,,,,,
-"12","6",,,,,,,
-"12","7",,,,,,,
-"12","8",,,,,,,
-"12","9",,,,,,,
-"12","10",,,,,,,
-"12","11",,,,,,,
-"13","1",,,,,,,
-"13","2",,,,,,,
-"13","3",,,,,,,
-"13","4",,,,,,,
-"13","5",,,,,,,
-"13","6",,,,,,,
-"13","7",,,,,,,
-"13","8",,,,,,,
-"13","9",,,,,,,
-"13","10",,,,,,,
-"13","11",,,,,,,
-"13","12",,,,,,,
+"Thématiques","Critères","Enregistrement d'un dossier de candidature|https://www.concours.justice.gouv.fr/WD210AWP/WD210AWP.EXE/CONNECT/CANINS73_21?CLIENT=MINJUST&URL=CANINS&SYSIN=2022-EDUC-2","Récapitulatif du dossier de candidature"
+"1","1","na","na"
+"1","2","na","nc|Les images de décoration sont pourvues d'une alternative textuelle vie un attribut `title`. Cet attribut devrait être placé sur le lien parent de ces images."
+"1","3","na","na"
+"1","4","na","na"
+"1","5","na","na"
+"1","6","na","na"
+"1","7","na","na"
+"1","8","na","na"
+"1","9","na","na"
+"2","1","na","na"
+"2","2","na","na"
+"3","1","c","c"
+"3","2","nc|Les titres de niveau 2 (`<h2>`) ne sont pas suffisamment contrastés (ratio de 3.9:1 au lieu de minimum 4.5:1). + les champs en erreur (gris sur rouge) : ratio de 1.12:1","nc|Les textes ""Vérifiez impérativement votre dossier AVANT de valider votre candidature"", ""PIÈCES JUSTIFICATIVES MANQUANTES"" et ""J'ANNULE ma demande d'inscription"" en rouge ne sont pas suffisamment contrastés avec le fond blanc (ratio 4:1). De la même façon, le panneau ""NOTEZ LES RÉFÉRENCES SUIVANTES […]"" n'est pas assez contrasté. Enfin, le texte ""Je modifie ma demande d'inscription"" en jaune n'est pas assez contrasté avec le fond blanc (ratio 1.5:1)"
+"3","3","na","c"
+"4","1","na","na"
+"4","2","na","na"
+"4","3","na","na"
+"4","4","na","na"
+"4","5","na","na"
+"4","6","na","na"
+"4","7","na","na"
+"4","8","na","na"
+"4","9","na","na"
+"4","10","na","na"
+"4","11","na","na"
+"4","12","na","na"
+"4","13","na","na"
+"5","1","na","na"
+"5","2","na","na"
+"5","3","nc|Le tableau et ses sous-tableaux n'ont pas d'attribut `role=""presentation""`","nc|Le tableau et ses sous-tableaux n'ont pas d'attribut `role=""presentation""`"
+"5","4","na","na"
+"5","5","na","na"
+"5","6","na","na"
+"5","7","na","na"
+"5","8","c","c"
+"6","1","nc|Le lien ""¤"" (symbole monétaire) en bas de page n'est pas explicite","nc|Le lien ""¤"" (symbole monétaire) en bas de page n'est pas explicite"
+"6","2","c","c"
+"7","1","nc|Plusieurs liens `<a>` devraient être des boutons `<button>`. Les modales ne sont pas correctement conçues, et donc mal restituées aux technologies d'assistance.","nc|Plusieurs liens `<a>` devraient être des boutons `<button>`. Les modales ne sont pas correctement conçues, et donc mal restituées aux technologies d'assistance."
+"7","2","na","na"
+"7","3","c","c"
+"7","4","c","c"
+"7","5","nc|Le message ""Votre demande est prise en compte. Veuillez patienter et ne pas réactualiser cette page, S.V.P."" n'est pas correctement restitué aux technologies d'assistance (il est répété à chaque clignotement…)","nc|Le message ""Votre demande est prise en compte. Veuillez patienter et ne pas réactualiser cette page, S.V.P."" n'est pas correctement restitué aux technologies d'assistance (il est répété à chaque clignotement…)"
+"8","1","c","c"
+"8","2","nc|De nombreuses erreurs détectées sur validator.w3.org","nc|De nombreuses erreurs détectées sur validator.w3.org"
+"8","3","nc","nc"
+"8","4","na","na"
+"8","5","c","c"
+"8","6","c","c"
+"8","7","na","na"
+"8","8","na","na"
+"8","9","nc|2 balises `<br>` sont utilisées pour espacer le paragraphe commençant par ""Les renseignements qui vous sont demandés""","nc|De nombres balises `<br>` sont utilisées pour espacer des paragraphes. Aussi, des lignes vides de tableau sont utilisées pour espacer artificiellement du contenu."
+"8","10","na","na"
+"9","1","c","c"
+"9","2","nc|Le document n'est structuré avec aucune des balises `<head>`, `nav`, `<main>` ou `<footer>`","nc|Le document n'est structuré avec aucune des balises `<head>`, `nav`, `<main>` ou `<footer>`"
+"9","3","na","nc|La liste des pièces manquantes n'est pas correctement structurée."
+"9","4","na","na"
+"10","1","nc|Présence de balises `<font>` et d'attributs `bgcolor`","nc|De nombreux attributs `width` et `height` sont utilisés sur des balises `<td>`"
+"10","2","c","c"
+"10","3","c","c"
+"10","4","c","c"
+"10","5","c","c"
+"10","6","c","c"
+"10","7","nc|La prise de focus n'est pas visible sur les 3 liens du bas de la page","nc|La prise de focus n'est pas visible sur les 5 liens du bas de la page"
+"10","8","c","c"
+"10","9","c","c"
+"10","10","c","c"
+"10","11","nc","nc"
+"10","12","nc|La phrase ""(pour calcul de votre ancienneté au 01/01/2022)"" peut se retrouver partiellement cachée derrière un champ de saisie.","c"
+"10","13","na","na"
+"10","14","na","na"
+"11","1","nc|Le champ ""Matricule"", lorsqu'il est désactivé, n'a pas d'intitulé. Suggestion : spécifier le même intitulé que lorsque ce champ n'est pas désactivé.","na"
+"11","2","nc|Certains champs boutons radio ont un intitulé qui n'est pas pertinent. Par exemple, pour le groupe ""Êtes-vous reconnu travailleur handicapé ?"", les champs Oui et Non ont pour intitulé ""Êtes-vous reconnu travailleur handicapé ?"" (testé avec VoiceOver sur Safari). À noter que l'intitulé semble plus pertinent sur Firefox car il combine ""Êtes-vous reconnu travailleur handicapé ?"" avec ""Oui"" ou ""Non""","na"
+"11","3","c","na"
+"11","4","nc","na"
+"11","5","nc","na"
+"11","6","na","na"
+"11","7","na","na"
+"11","8","na","na"
+"11","9","na","na"
+"11","10","nc|La mention ""* les champs marqués d'un astérisque sont obligatoires"" est située en bas de page… Aussi, certains champs non valides n'ont pas de message d'erreur.","na"
+"11","11","nc","na"
+"11","12","c","na"
+"11","13","nc","na"
+"12","1","nc","nc"
+"12","2","na","na"
+"12","3","na","na"
+"12","4","na","na"
+"12","5","na","na"
+"12","6","na","na"
+"12","7","na","na"
+"12","8","c","c"
+"12","9","c","c"
+"12","10","na","na"
+"12","11","na",
+"13","1","nc|Au bout d'un certain temps, l'usager est automatiquement redirigé vers la page [Je donne mon avis](https://lajusticerecrute.fr/je-donne-mon-avis), sans avoir le contrôle sur ce changement.","nc|Au bout d'un certain temps, l'usager est automatiquement redirigé vers la page [Je donne mon avis](https://lajusticerecrute.fr/je-donne-mon-avis), sans avoir le contrôle sur ce changement."
+"13","2","nc|Au bout d'un certain temps, l'usager est automatiquement redirigé vers la page [Je donne mon avis](https://lajusticerecrute.fr/je-donne-mon-avis), sans avoir le contrôle sur ce changement.","nc|Au bout d'un certain temps, l'usager est automatiquement redirigé vers la page [Je donne mon avis](https://lajusticerecrute.fr/je-donne-mon-avis), sans avoir le contrôle sur ce changement."
+"13","3","na","nc|Le document téléchargé n'est pas accessible"
+"13","4","na","c"
+"13","5","na","na"
+"13","6","na","na"
+"13","7","na","na"
+"13","8","nc|Le message de statut en bas de la page clignote sans possibilité de contrôler ce mouvement.","nc|Le message de statut en bas de la page clignote sans possibilité de contrôler ce mouvement."
+"13","9","c","c"
+"13","10","na","na"
+"13","11","na","na"
+"13","12","na","na"
